@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:text="@string/team_b" />
+
+    <TextView
+        android:id="@+id/_1_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_2_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_3_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_4_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_5_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_6_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_7_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_8_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_9_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_10_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_11_teamB"
+        style="@style/table" />
+
+    <TextView
+        android:id="@+id/_12_teamB"
+        style="@style/table" />
+</TableRow>
